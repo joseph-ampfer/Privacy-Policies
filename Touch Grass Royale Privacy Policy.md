@@ -41,6 +41,17 @@ We comply with the Children’s Online Privacy Protection Act (COPPA). We collec
 
 You have the right to delete your account at any time. Deleting your account will remove all associated data from our servers permanently.
 
+### a. Account Deletion:
+To delete your account in **Touch Grass Royale**, please follow these steps:
+1. Open **Touch Grass Royale** and log in to your account.
+2. Navigate to the profile page.
+3. Click "Edit Profile."
+4. In the bottom right of the screen, click "Delete Account."
+5. Enter your password to confirm and permanently delete your account.
+
+### b. Data Retention:
+We do not retain any personal data once your account has been deleted. 
+
 ## 7. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and, where feasible, through other means such as email notification. We encourage you to review this Privacy Policy periodically for any changes.
